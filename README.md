@@ -5,6 +5,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Automation+Enthusiast;📺+YouTube+Academy+Graduate;💻+VS+Code+Power+User;✨+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
