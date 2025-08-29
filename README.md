@@ -3,9 +3,7 @@
 # Hi there, I'm Umar J! 👋
 ### 🚀 Mid-Level Developer | Python Automation Enthusiast | Lifelong Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐍+Python+Automation+Enthusiast;📺+YouTube+Academy+Graduate;💻+VS+Code+Power+User;✨+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🐍+Python+Automation+Enthusiast;📺+YouTube+Academy+Graduate;💻+VS+Code+Power+User;✨+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -15,7 +13,7 @@
 
 > "Don't ever get disappointed, just work hard - success makes noise!" 💪
 
-python
+```python
 class Developer:
     def __init__(self):
         self.name = "Umar J"
@@ -32,7 +30,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-
+```
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -49,19 +47,21 @@ me.say_hi()
 
 </div>
 
-### 🐍 *Python Specializations:*
-- 🤖 *Automation Scripts* - Making repetitive tasks disappear
-- 📊 *Data Processing* - Turning data into insights
-- 🔧 *Backend Development* - Building robust solutions
-- 🌐 *Web Scraping* - Extracting valuable information
+### 🐍 **Python Specializations:**
+- 🤖 **Automation Scripts** - Making repetitive tasks disappear
+- 📊 **Data Processing** - Turning data into insights
+- 🔧 **Backend Development** - Building robust solutions
+- 🌐 **Web Scraping** - Extracting valuable information
 
-### 💻 *Development Environment:*
-- *IDE:* VS Code with awesome extensions
-- *Learning Platform:* YouTube University 📺
-- *Version Control:* Git & GitHub
-- *Philosophy:* Continuous learning and improvement
+### 💻 **Development Environment:**
+- **IDE:** VS Code with awesome extensions
+- **Learning Platform:** YouTube University 📺
+- **Version Control:** Git & GitHub
+- **Philosophy:** Continuous learning and improvement
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🎓 Learning Journey
 
@@ -69,10 +69,10 @@ me.say_hi()
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="200"/>
 </div>
 
-- 📺 *YouTube Academy Graduate* - Believer in free, quality education
+- 📺 **YouTube Academy Graduate** - Believer in free, quality education
 - 🔄 Constantly exploring new Python libraries and automation techniques
 - 📚 Self-taught developer with an insatiable curiosity
-- 🎯 Currently focused on advancing as a *mid-level developer*
+- 🎯 Currently focused on advancing as a **mid-level developer**
 
 ## 💬 Ask Me Anything!
 
@@ -82,16 +82,18 @@ me.say_hi()
 
 I love connecting with fellow developers! Feel free to ask me about:
 
-- 🐍 *Python automation* projects and best practices
-- 📺 *Best YouTube channels* and resources for learning to code  
-- 🛠 *VS Code setup*, extensions, and productivity tips
-- 💪 *Staying motivated* during your coding journey
-- 🚀 *Career advice* for aspiring developers
-- ⚙ *Automation ideas* to simplify your workflow
+- 🐍 **Python automation** projects and best practices
+- 📺 **Best YouTube channels** and resources for learning to code  
+- 🛠 **VS Code setup**, extensions, and productivity tips
+- 💪 **Staying motivated** during your coding journey
+- 🚀 **Career advice** for aspiring developers
+- ⚙ **Automation ideas** to simplify your workflow
 
 Remember: Every expert was once a beginner. Keep coding, keep learning! ✨
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -112,13 +114,11 @@ Remember: Every expert was once a beginner. Keep coding, keep learning! ✨
 
 <div align="center">
 
-
-🔭 Currently working on: Personal automation projects
-🌱 Currently learning: Advanced Python concepts
-👯 Looking to collaborate: Open to future exciting projects
-💬 Ask me about: Python, Automation, VS Code, YouTube learning
-⚡ Fun fact: I believe YouTube is the best university for developers!
-
+🔭 **Currently working on:** Personal automation projects  
+🌱 **Currently learning:** Advanced Python concepts  
+👯 **Looking to collaborate:** Open to future exciting projects  
+💬 **Ask me about:** Python, Automation, VS Code, YouTube learning  
+⚡ **Fun fact:** I believe YouTube is the best university for developers!
 
 </div>
 
@@ -126,17 +126,17 @@ Remember: Every expert was once a beginner. Keep coding, keep learning! ✨
 
 <div align="center">
 
-### 📱 *Social Media*
+### 📱 **Social Media**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umar.j0_?igsh=MWR1djRyeWk4c2dvdA==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GjdpXw9CB/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitalcreatoruj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarJ-max)
 
-### 💌 *Get In Touch*
-- 📧 *Email:* digitalcreatoruj@gmail.com  
-- 🚀 *Open to:* Future collaborations and interesting projects
-- 🌟 *Always happy to:* Help fellow developers grow!
+### 💌 **Get In Touch**
+- 📧 **Email:** digitalcreatoruj@gmail.com  
+- 🚀 **Open to:** Future collaborations and interesting projects
+- 🌟 **Always happy to:** Help fellow developers grow!
 
 </div>
 
@@ -144,7 +144,9 @@ Remember: Every expert was once a beginner. Keep coding, keep learning! ✨
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
 
@@ -152,7 +154,7 @@ Remember: Every expert was once a beginner. Keep coding, keep learning! ✨
 
 ![Visitor Count](https://profile-counter.glitch.me/umarJ-max/count.svg)
 
-*Thank you for visiting my profile! Let's build something amazing together! 🚀*
+**Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
