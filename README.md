@@ -1,81 +1,66 @@
 <div align="center">
 
-# Hey, I'm Umar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:8A2BE2&height=220&section=header&text=Umar%20J&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20things%20that%20probably%20shouldn't%20work%20but%20do&descAlignY=58&descSize=20" width="100%"/>
 
-### Self-taught developer who builds things nobody asked for, then ships them anyway
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Node.js+%2B+Python+%2B+React+Native;WhatsApp+bots+that+refuse+to+die;Currently%3A+ACCA+by+day%2C+debugging+by+night" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Turns+coffee+into+code+at+odd+hours;Professional+bug+creator+%26+occasional+fixer;Ships+first%2C+documents+never;Ask+me+why+it's+broken+again" />
 
 </div>
 
----
-
-## 🎯 About Me
-
-> I don't have a CS degree. I have 45+ repos, several deployed WhatsApp bots that outlived their own hosting platforms, and a strong opinion about which free tier is actually free.
-
-```javascript
-const umar = {
-  location: "Punjab, Pakistan",
-  currentlyStudying: "ACCA — FFA & FMA (already cleared 2 FIA papers)",
-  stack: ["Node.js", "Python/Flask", "React Native + Expo", "vanilla JS"],
-  deployPreference: "Vercel + whatever free tier hasn't shut down yet",
-  personality: "ships fast, breaks things, fixes them before anyone notices",
-};
-
-function sayHi() {
-  console.log("Thanks for stopping by — take a look around 👇");
-}
-
-sayHi();
-```
-
----
-
-## 🛠 What I Actually Build
-
-Not another todo-list tutorial repo. Here's what's live:
-
-| Project | What it does |
-|---|---|
-| **[Doc Tools](https://github.com/umarJ-max)** | Android document manager — Expo + custom native Kotlin `MediaStoreScannerModule` because React Native alone couldn't handle Android's storage rules |
-| **JARVIS Desktop Assistant** | Electron app with a hotkey HUD (`Ctrl+Alt+Space`), Groq Whisper for voice, Llama 3.3 for intent parsing, real TTS replies |
-| **RootChat** | Full WhatsApp-clone chat app — Expo, Socket.io, MongoDB, real-time delivered/read ticks, push notifications, the works |
-| **APEX WhatsApp Bot** | 112 commands, triple AI fallback chain (so it never actually goes down) |
-| **DropLoad** | Multi-platform media downloader, 8 platforms, serverless on Vercel |
-| **SnapNotes** | Camera-to-PDF scanner — my first mobile app, still holds up |
+<br>
 
 <div align="center">
-<sub>Full list of the chaos → <a href="https://github.com/umarJ-max?tab=repositories">all repos</a></sub>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180">
 </div>
 
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=umarJ-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarJ-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+### 🧭 The short version
 
-<img src="https://streak-stats.demolab.com/?user=umarJ-max&theme=tokyonight&hide_border=true" alt="umarJ-max streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarJ-max&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="90%"/>
+*Self-taught. Chronically online. Builds first, asks permission never.*
+*If it's broken, it's probably a feature I haven't renamed yet.*
 
 </div>
 
----
+<br>
 
-## 🌟 Right Now
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=3&section=header&width=100%"/>
 
-- 🔭 Building — automation tools and the occasional bot that shouldn't exist but does
-- 🌱 Studying — ACCA FFA/FMA, targeting 80%+ on every chapter quiz before moving on
-- 🐍 Reaching for — Python/Node automation over doing anything manually twice
-- 💬 Ask me about — React Native storage headaches, WhatsApp bot architecture, or why free-tier hosting is a personality trait at this point
+## ⚡ Currently
 
----
+<div align="center">
 
-## 🤝 Let's Connect
+🛠️ &nbsp; Deep in a new build, as always &nbsp; · &nbsp; 🌙 &nbsp; Best ideas arrive at 2am &nbsp; · &nbsp; 🎯 &nbsp; One more feature, then I'll sleep
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=3&section=header&width=100%"/>
+
+## 📊 The Numbers
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=umarJ-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarJ-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img src="https://streak-stats.demolab.com/?user=umarJ-max&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarJ-max&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="92%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=3&section=header&width=100%"/>
+
+## 🎲 Fun Fact Generator
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=I+once+debugged+something+for+6+hours+—+it+was+a+typo;My+free-tier+hosting+graveyard+has+its+own+cemetery;I+name+my+variables+better+than+I+name+my+repos" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=3&section=header&width=100%"/>
+
+## 🤝 Find Me Elsewhere
 
 <div align="center">
 
@@ -84,21 +69,21 @@ Not another todo-list tutorial repo. Here's what's live:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitalcreatoruj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarJ-max)
 
-📧 **digitalcreatoruj@gmail.com** — open to collabs, weird project ideas, and debugging war stories
-
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ "Success isn't just about what you accomplish — it's about what you inspire others to do."
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55"> &nbsp;<i><b>Say hi — I don't bite, and I definitely reply faster than my code compiles.</b></i>
 
-<img src="https://komarev.com/ghpvc/?username=umarJ-max&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<br><br>
 
-**Thanks for visiting — go build something. 🚀**
+<img src="https://komarev.com/ghpvc/?username=umarJ-max&color=8A2BE2&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D4FF&height=120&section=footer"/>
 
 <!--
 umarJ-max/umarJ-max is a special repository because its README.md appears on your GitHub profile.
