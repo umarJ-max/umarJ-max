@@ -57,11 +57,6 @@ whether or not that was the efficient choice.
 ## DIAGNOSTICS
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=umarJ-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarJ-max&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarJ-max&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="90%"/>
 </div>
 
@@ -107,6 +102,6 @@ advice less so.
 umar@github:~$ echo "thanks for reading this far" && exit 0
 ```
 
-<sub>views: <img src="https://komarev.com/ghpvc/?username=umarJ-max&color=grey&style=flat&label=" alt="visitors" height="14"/></sub>
+<img src="https://komarev.com/ghpvc/?username=umarJ-max&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="visitors"/>
 
 </div>
